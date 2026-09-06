@@ -1,0 +1,12 @@
+/home/lele/program/LinuxMinor/build/CMakeFiles/rebuild_cache.dir
+/home/lele/program/LinuxMinor/build/CMakeFiles/edit_cache.dir
+/home/lele/program/LinuxMinor/build/proto/CMakeFiles/rebuild_cache.dir
+/home/lele/program/LinuxMinor/build/proto/CMakeFiles/edit_cache.dir
+/home/lele/program/LinuxMinor/build/proto/CMakeFiles/monitor_proto.dir
+/home/lele/program/LinuxMinor/build/worker/CMakeFiles/rebuild_cache.dir
+/home/lele/program/LinuxMinor/build/worker/CMakeFiles/edit_cache.dir
+/home/lele/program/LinuxMinor/build/worker/CMakeFiles/kernel_modules.dir
+/home/lele/program/LinuxMinor/build/worker/CMakeFiles/worker.dir
+/home/lele/program/LinuxMinor/build/manager/CMakeFiles/rebuild_cache.dir
+/home/lele/program/LinuxMinor/build/manager/CMakeFiles/edit_cache.dir
+/home/lele/program/LinuxMinor/build/manager/CMakeFiles/manager.dir
